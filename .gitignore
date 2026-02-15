@@ -1,0 +1,9 @@
+LJSpeech-1.1/
+fastspeech2-clean/LJSpeech-1.1/
+fastspeech2-clean/dataset/
+fastspeech2-clean/training.log
+fastspeech2-clean/models/
+fastspeech2-clean/processed/
+fastspeech2-clean/model.pt
+fastspeech2-clean/__pycache__/
+fastspeech2-clean/model.csv
