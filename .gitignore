@@ -7,4 +7,4 @@ fastspeech2-clean/processed/
 fastspeech2-clean/model.pt
 fastspeech2-clean/__pycache__/
 fastspeech2-clean/model.csv
-EmotionalSpeechDataset/
+EmotionalSpeechDataset/1
