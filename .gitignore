@@ -1,10 +1,43 @@
+# LJSpeech-1.1/
+# fastspeech2-clean/LJSpeech-1.1/
+# fastspeech2-clean/dataset/
+# fastspeech2-clean/training.log
+# fastspeech2-clean/models/
+# fastspeech2-clean/processed/
+# fastspeech2-clean/model.pt
+# fastspeech2-clean/__pycache__/
+# fastspeech2-clean/model.csv
+# EmotionalSpeechDataset/1
+
+# =========================
+# DATASETS
+# =========================
 LJSpeech-1.1/
 fastspeech2-clean/LJSpeech-1.1/
 fastspeech2-clean/dataset/
-fastspeech2-clean/training.log
-fastspeech2-clean/models/
+EmotionalSpeechDataset/
+
+# processed datasets
 fastspeech2-clean/processed/
-fastspeech2-clean/model.pt
-fastspeech2-clean/__pycache__/
-fastspeech2-clean/model.csv
-EmotionalSpeechDataset/1
+fastspeech2-clean/processed_old/
+fastspeech2-clean/processed_old_unnormalized/
+
+# =========================
+# TRAINED MODELS
+# =========================
+fastspeech2-clean/models/
+*.pt
+*.pth
+
+# =========================
+# LOGS / EXPERIMENT OUTPUT
+# =========================
+*.log
+*.csv
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
