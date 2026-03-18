@@ -1,7 +1,0 @@
-streamlit
-torch
-numpy
-soundfile
-g2p-en
-parler-tts
-transformers
